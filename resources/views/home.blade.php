@@ -17,6 +17,7 @@
 
                             {{ __('¡Bienvenido, ') }} {{ Auth::user()->name }} {{ __('!') }}
                         </h1>
+                        <a class="btn btn-primary mt-5" href="{{ route('peliculas.index') }}"> {{ __('Explorar el catálogo') }}</a>
                 </div>
             </div>
         </div>
