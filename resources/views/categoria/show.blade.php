@@ -14,12 +14,12 @@
                             <span class="card-title">{{ __('Show') }} Categoria</span>
                         </div>
                         <div class="float-right">
-                            <a class="btn btn-primary" href="{{ route('categorias.index') }}"> {{ __('Back') }}</a>
+                            <a class="btn btn-primary" href="{{ route('categorias.index') }}"> {{ __('Atrás') }}</a>
                         </div>
                     </div>
 
                     <div class="card-body">
-                        
+
                         <div class="form-group">
                             <strong>Nombre:</strong>
                             {{ $categoria->nombre }}
