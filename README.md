@@ -7,4 +7,5 @@
 Laravel Films es un proyecto CRUD que gestiona una base de datos de películas
 
 [Manual del programador](Manual_del_programador.pdf)
+<br><br>
 [Manual de usuario](Manual_de_usuario.pdf)
